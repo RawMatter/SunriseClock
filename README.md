@@ -1,2 +1,2 @@
 # SunriseClock
-Hardware and code to drive WS2812 (or exuivalent) LED strips on a schedule
+Hardware and code to drive WS2812 (or equivalent) LED strips on a schedule
